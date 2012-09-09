@@ -1,0 +1,1 @@
+SysNeo Pos en un punto de venta desarrollado para las PyMes peruanas.
